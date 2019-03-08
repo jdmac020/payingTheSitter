@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitterPayCalculator", "BabySitterPayCalculator\BabySitterPayCalculator.csproj", "{005F5790-6A8C-4057-BBB3-5B0CFBC693EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitterPayCalculatorTests", "BabySitterPayCalculatorTests\BabySitterPayCalculatorTests.csproj", "{08ACCB9E-3B00-4A15-BC7B-42C4A0AB53EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{005F5790-6A8C-4057-BBB3-5B0CFBC693EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005F5790-6A8C-4057-BBB3-5B0CFBC693EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005F5790-6A8C-4057-BBB3-5B0CFBC693EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005F5790-6A8C-4057-BBB3-5B0CFBC693EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08ACCB9E-3B00-4A15-BC7B-42C4A0AB53EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08ACCB9E-3B00-4A15-BC7B-42C4A0AB53EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08ACCB9E-3B00-4A15-BC7B-42C4A0AB53EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08ACCB9E-3B00-4A15-BC7B-42C4A0AB53EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
